@@ -21,7 +21,8 @@ Build simple CRUD (Create-Read-Update-Delete) API within minutes. This API is **
 
 ## Steps
 
-Youtube Video Tutorial : [https://youtu.be/8U-QaJ0dDS0](https://youtu.be/8U-QaJ0dDS0)
+Youtube Video Tutorial :   
+  [![](https://i.postimg.cc/XvqFfPsV/image.png)](https://youtu.be/8U-QaJ0dDS0)
 
 - [ ] Go to [Apps Script](https://script.google.com/home) and create a \[ New Project ] 
 
